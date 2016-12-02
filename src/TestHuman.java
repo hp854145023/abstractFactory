@@ -9,8 +9,7 @@ public class TestHuman {
         human.talk();
         human.getSex();
         System.out.println("haha");
-        System.out.println("haha");
-        System.out.println("haha");
+
 
     }
 }
