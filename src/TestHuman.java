@@ -8,6 +8,9 @@ public class TestHuman {
         human.getColor();
         human.talk();
         human.getSex();
+        System.out.println("haha");
+        System.out.println("haha");
+        System.out.println("haha");
 
     }
 }
